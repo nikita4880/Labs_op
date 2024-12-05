@@ -1,6 +1,6 @@
 # Labs_op
-# Reusable-1 лабораторна 
-# DataTypes- 2 лабораторна
+# DataTypes-1 лабораторна 
+# Reusable- 2 лабораторна
 #
 #
 #
